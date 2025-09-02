@@ -1,8 +1,8 @@
 # Identificação
 
-* Nome: 
-* Email (@ccc): 
-* Matrícula: 
+* Nome: Nicholas Cartaxo de Souza Rangel Alves
+* Email (@ccc): nicholas.cartaxo.de.souza.rangel.alves@ccc.ufcg.edu.br
+* Matrícula: 124110528
 
 # Roteiro: isAVL
 
